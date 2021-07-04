@@ -1,0 +1,8 @@
+####
+Link github -> https://github.com/MattyOliveira
+
+git init
+git add fiap_github.txt
+git commit -m "Link acesso ao perfil do github"
+git remote add origin https://github.com/MattyOliveira/AtividadeFiap.git
+git push -u origin main
